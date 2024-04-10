@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a frontend developer from Ukraine Currently located in Prague, Czech Republic. I have 2 years of experience, including training, and an up-to-date and modern frontend development stack. I like to be in the trend of new technologies, learn new things.</p>
+<p align="left">I am a frontend developer from Ukraine currently located in Prague, Czech Republic. I have 2 years of experience, including training, and an up-to-date and modern frontend development stack. I like to be in the trend of new technologies, learn new things.</p>
 
 ###
 
