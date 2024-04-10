@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">📫 How to reach me: **basuksasa@gmail.com** </h3>
+<h3 align="left">📫 How to reach me: basuksasa@gmail.com </h3>
 
 ###
 
