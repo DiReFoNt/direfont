@@ -2,13 +2,15 @@
 
 ###
 
-<p align="left">I am a frontend developer from Ukraine currently located in Prague, Czech Republic. I have 2 years of experience, including training, and an up-to-date and modern frontend development stack. I like to be in the trend of new technologies, learn new things.</p>
+<p align="left">I am a frontend developer from Ukraine Currently located in Prague, Czech Republic. I have 3 years of experience, including training, and an up-to-date and modern frontend development stack. I like to be in the trend of new technologies, learn new things.</p>
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
@@ -25,14 +27,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
 </div>
 
 ###
 
-<h3 align="left">📫 How to reach me: <br> basuksasa@gmail.com </h3>
+<h3 align="left">📫 How to reach me:<br>basuksasa@gmail.com</h3>
 
 ###
 
@@ -44,12 +48,15 @@
   <a href="https://www.linkedin.com/in/oleksandr-basiuk-791790261/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="basuksasa@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmV5MWl1dDZxZWR0dng5eGYybjRuMWNxejdoeHBncXR6d3ZvcnM0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
+  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlwNnhvMzd6dWwwa3pjZ3VudXZhZmx3eWJhbXF0OTRhaXdzNTY5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 </div>
 
 ###
